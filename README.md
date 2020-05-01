@@ -12,4 +12,6 @@ please install all libraries with pip
 
 The Docker image is also provided by Cryptohack which comes with all required Libraries
 If you have Docker, it's as simple as running: docker run -p 127.0.0.1:8888:8888 -it hyperreality/cryptohack:latest
-just after running open localhost/8888
+
+
+just after running open localhost/8888 in browser(localhost = 127.0.0.1)
