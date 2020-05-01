@@ -10,6 +10,6 @@ please install all libraries with pip
 5. pip install pwn         http://docs.pwntools.com/en/stable/
 6. pip install json        
 
-The Docker image is also provided by Cryptohack which comes all required Libraries
+The Docker image is also provided by Cryptohack which comes with all required Libraries
 If you have Docker, it's as simple as running: docker run -p 127.0.0.1:8888:8888 -it hyperreality/cryptohack:latest
 just after running open localhost/8888
