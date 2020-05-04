@@ -2,7 +2,11 @@
 The programs may be used for basic Cryptographic/cryptanalysis Application coded in python
 
 please install all libraries with pip
-pip install -r /path/to/requirements.txt  (type this on cmd of device installed of python. Download requirement.txt file given with code)
+
+
+pip install -r /path/to/requirements.txt
+
+(type this on cmd of device installed of python. Download requirement.txt file given with code)
 
 or
 
